@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <a href="#" style="--crl:rgba(248, 98, 11, 0.667);">hover me</a>
+    <a href="#" style="--crl:rgba(252, 14, 180, 0.467);">hover me</a>
+    <a href="#" style="--crl:rgb(10, 248, 69);">hover me</a>
+</body>
+</html>
